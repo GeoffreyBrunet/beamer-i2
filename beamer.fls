@@ -459,6 +459,11 @@ INPUT ./Imgs/organigramme-quartz-insight.png
 INPUT ./Imgs/organigramme-quartz-insight.png
 INPUT ./Imgs/organigramme-quartz-insight.png
 INPUT ./Imgs/organigramme-quartz-insight.png
+INPUT ./Imgs/qibates.png
+INPUT ./Imgs/qibates.png
+INPUT ./Imgs/qibates.png
+INPUT ./Imgs/qibates.png
+INPUT ./Imgs/qibates.png
 INPUT ./Imgs/dotnet-core.png
 INPUT ./Imgs/dotnet-core.png
 INPUT ./Imgs/dotnet-core.png
@@ -536,6 +541,11 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
 INPUT ./beamer.toc
 INPUT ./beamer.toc
 INPUT beamer.toc
+INPUT ./Imgs/felix.png
+INPUT ./Imgs/felix.png
+INPUT ./Imgs/felix.png
+INPUT ./Imgs/felix.png
+INPUT ./Imgs/felix.png
 OUTPUT beamer.nav
 OUTPUT beamer.toc
 OUTPUT beamer.snm

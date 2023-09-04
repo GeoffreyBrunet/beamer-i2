@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1693809521 "beamer.tex" "beamer.pdf" "beamer" 1693809526 0
+["pdflatex"] 1693816109 "beamer.tex" "beamer.pdf" "beamer" 1693816114 0
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecss1095.tfm" 1136768653 3584 8ece407347b270c252c46fdfaef5a9ef ""
@@ -237,6 +237,7 @@
   "Imgs/dotnet-core.png" 1693486031 124431 993de176e94078ff5a6f398ab7a1c73e ""
   "Imgs/enquete-utilisateur.png" 1692605042 1133669 47a10e2f23864ee45fbaf447ae1c7886 ""
   "Imgs/felix-sonar.png" 1692627898 1146899 5a731e90e6eb6d7c0e3a6db9f43858da ""
+  "Imgs/felix.png" 1693815757 1145849 4d7c084973431e254043b1eab81bc5be ""
   "Imgs/full-doc.png" 1693776964 1320111 391e2e19d4de792f4ae85d27970e06a4 ""
   "Imgs/icons.png" 1693774262 62307 0b322bbdde48adcab0013ef586a35cc7 ""
   "Imgs/java-code.png" 1693155494 268356 a98811fb91e53f115a42b1d7e2ad7a89 ""
@@ -244,14 +245,15 @@
   "Imgs/logo-epsi-v2.png" 1679577540 10424 3490f63c72acaba7d46607550ba0c110 ""
   "Imgs/logo-quartz-insight-v2.png" 1679577540 75973 720dcf0c87ba3c86c4e6544ab138bba6 ""
   "Imgs/organigramme-quartz-insight.png" 1684505235 84629 1874eff3977e43d9484f233b3207ef9b ""
+  "Imgs/qibates.png" 1693815610 1231777 52e7ff34b13c53125a3e1a2341889e34 ""
   "Imgs/ralph-diagram.png" 1683798862 242951 470d81f1ecaccd1ed7495a296df9b9b3 ""
   "Imgs/schema-qibates-original.png" 1683555161 93439 1bbce7870f144e6e6a127ca893bab1cd ""
   "Imgs/schema-qibates-v2.png" 1692625398 121907 674bd1c748f94c5a46f5e2d92a4fbf4a ""
-  "beamer.aux" 1693809526 4687 3e52677a8e398f6a825300b61794e0b8 "pdflatex"
-  "beamer.nav" 1693809526 2685 c3bedf83a71477fe305f67c3f640bfb8 "pdflatex"
-  "beamer.out" 1693809526 541 c95f69f2e518eb05d30c32bc511d1c87 "pdflatex"
-  "beamer.tex" 1693809516 8077 3cef67d5480f470dc95eaae43552d8ed ""
-  "beamer.toc" 1693809526 218 022ec352baf87a852b8e5736ce6951ce "pdflatex"
+  "beamer.aux" 1693816114 4943 c1297afb49515770a91f3803407f8d51 "pdflatex"
+  "beamer.nav" 1693816114 2869 da4938b64cacfe68475123130892ffec "pdflatex"
+  "beamer.out" 1693816114 541 c95f69f2e518eb05d30c32bc511d1c87 "pdflatex"
+  "beamer.tex" 1693816103 8383 507c61eaf3bf86cd40c110655d9d3b74 ""
+  "beamer.toc" 1693816114 218 966e0c1d57f318750d6548b40908eea3 "pdflatex"
   (generated)
   "beamer.aux"
   "beamer.log"

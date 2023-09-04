@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.7)  4 SEP 2023 08:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.7)  4 SEP 2023 10:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -899,122 +899,138 @@ Package pdftex.def Info: Imgs/logo-quartz-insight-v2.png  used on input line 72.
 File: Imgs/organigramme-quartz-insight.png Graphic file (type png)
 <use Imgs/organigramme-quartz-insight.png>
 Package pdftex.def Info: Imgs/organigramme-quartz-insight.png  used on input line 77.
-(pdftex.def)             Requested size: 284.90865pt x 141.16127pt.
+(pdftex.def)             Requested size: 330.70105pt x 163.84708pt.
  [5
 
  <./Imgs/organigramme-quartz-insight.png>]
-<Imgs/dotnet-core.png, id=198, 2055.68pt x 2055.68pt>
-File: Imgs/dotnet-core.png Graphic file (type png)
-<use Imgs/dotnet-core.png>
-Package pdftex.def Info: Imgs/dotnet-core.png  used on input line 94.
-(pdftex.def)             Requested size: 100.81389pt x 100.82837pt.
+<Imgs/qibates.png, id=199, 1557.82pt x 990.70125pt>
+File: Imgs/qibates.png Graphic file (type png)
+<use Imgs/qibates.png>
+Package pdftex.def Info: Imgs/qibates.png  used on input line 82.
+(pdftex.def)             Requested size: 297.27248pt x 189.05609pt.
  [6
 
- <./Imgs/dotnet-core.png>] (./beamer.toc) [7
+ <./Imgs/qibates.png>]
+<Imgs/dotnet-core.png, id=225, 2055.68pt x 2055.68pt>
+File: Imgs/dotnet-core.png Graphic file (type png)
+<use Imgs/dotnet-core.png>
+Package pdftex.def Info: Imgs/dotnet-core.png  used on input line 99.
+(pdftex.def)             Requested size: 100.81389pt x 100.82837pt.
+ [7
+
+ <./Imgs/dotnet-core.png>] (./beamer.toc) [8
 
 ]
-<Imgs/schema-qibates-original.png, id=254, 1115.16624pt x 613.29124pt>
+<Imgs/schema-qibates-original.png, id=282, 1115.16624pt x 613.29124pt>
 File: Imgs/schema-qibates-original.png Graphic file (type png)
 <use Imgs/schema-qibates-original.png>
-Package pdftex.def Info: Imgs/schema-qibates-original.png  used on input line 101.
-(pdftex.def)             Requested size: 275.0133pt x 151.24641pt.
- [8
-
- <./Imgs/schema-qibates-original.png>]
-<Imgs/anssi.png, id=282, 1003.75pt x 1003.75pt>
-File: Imgs/anssi.png Graphic file (type png)
-<use Imgs/anssi.png>
-Package pdftex.def Info: Imgs/anssi.png  used on input line 119.
-(pdftex.def)             Requested size: 126.03513pt x 126.0374pt.
+Package pdftex.def Info: Imgs/schema-qibates-original.png  used on input line 106.
+(pdftex.def)             Requested size: 297.91692pt x 163.84708pt.
  [9
 
- <./Imgs/anssi.png>]
-<Imgs/ralph-diagram.png, id=309, 847.165pt x 947.54pt>
-File: Imgs/ralph-diagram.png Graphic file (type png)
-<use Imgs/ralph-diagram.png>
-Package pdftex.def Info: Imgs/ralph-diagram.png  used on input line 135.
-(pdftex.def)             Requested size: 146.48514pt x 163.84708pt.
+ <./Imgs/schema-qibates-original.png>]
+<Imgs/anssi.png, id=309, 1003.75pt x 1003.75pt>
+File: Imgs/anssi.png Graphic file (type png)
+<use Imgs/anssi.png>
+Package pdftex.def Info: Imgs/anssi.png  used on input line 124.
+(pdftex.def)             Requested size: 126.03513pt x 126.0374pt.
  [10
 
- <./Imgs/ralph-diagram.png>]
-<Imgs/enquete-utilisateur.png, id=336, 1091.07625pt x 990.70125pt>
-File: Imgs/enquete-utilisateur.png Graphic file (type png)
-<use Imgs/enquete-utilisateur.png>
-Package pdftex.def Info: Imgs/enquete-utilisateur.png  used on input line 140.
-(pdftex.def)             Requested size: 222.09047pt x 201.6606pt.
+ <./Imgs/anssi.png>]
+<Imgs/ralph-diagram.png, id=336, 847.165pt x 947.54pt>
+File: Imgs/ralph-diagram.png Graphic file (type png)
+<use Imgs/ralph-diagram.png>
+Package pdftex.def Info: Imgs/ralph-diagram.png  used on input line 140.
+(pdftex.def)             Requested size: 146.48514pt x 163.84708pt.
  [11
 
- <./Imgs/enquete-utilisateur.png>]
-<Imgs/schema-qibates-v2.png, id=363, 1166.3575pt x 789.95125pt>
-File: Imgs/schema-qibates-v2.png Graphic file (type png)
-<use Imgs/schema-qibates-v2.png>
-Package pdftex.def Info: Imgs/schema-qibates-v2.png  used on input line 145.
-(pdftex.def)             Requested size: 279.13065pt x 189.05609pt.
+ <./Imgs/ralph-diagram.png>]
+<Imgs/enquete-utilisateur.png, id=363, 1091.07625pt x 990.70125pt>
+File: Imgs/enquete-utilisateur.png Graphic file (type png)
+<use Imgs/enquete-utilisateur.png>
+Package pdftex.def Info: Imgs/enquete-utilisateur.png  used on input line 145.
+(pdftex.def)             Requested size: 222.09047pt x 201.6606pt.
  [12
 
- <./Imgs/schema-qibates-v2.png>]
-<Imgs/icons.png, id=391, 341.275pt x 935.495pt>
-File: Imgs/icons.png Graphic file (type png)
-<use Imgs/icons.png>
-Package pdftex.def Info: Imgs/icons.png  used on input line 161.
-(pdftex.def)             Requested size: 68.9672pt x 189.05609pt.
+ <./Imgs/enquete-utilisateur.png>]
+<Imgs/schema-qibates-v2.png, id=391, 1166.3575pt x 789.95125pt>
+File: Imgs/schema-qibates-v2.png Graphic file (type png)
+<use Imgs/schema-qibates-v2.png>
+Package pdftex.def Info: Imgs/schema-qibates-v2.png  used on input line 150.
+(pdftex.def)             Requested size: 279.13065pt x 189.05609pt.
  [13
 
- <./Imgs/icons.png>]
-<Imgs/js-code.png, id=419, 726.715pt x 762.85pt>
-File: Imgs/js-code.png Graphic file (type png)
-<use Imgs/js-code.png>
-Package pdftex.def Info: Imgs/js-code.png  used on input line 173.
-(pdftex.def)             Requested size: 120.05803pt x 126.0374pt.
-<Imgs/java-code.png, id=420, 961.5925pt x 582.175pt>
-File: Imgs/java-code.png Graphic file (type png)
-<use Imgs/java-code.png>
-Package pdftex.def Info: Imgs/java-code.png  used on input line 173.
-(pdftex.def)             Requested size: 208.17628pt x 126.0374pt.
+ <./Imgs/schema-qibates-v2.png>]
+<Imgs/icons.png, id=419, 341.275pt x 935.495pt>
+File: Imgs/icons.png Graphic file (type png)
+<use Imgs/icons.png>
+Package pdftex.def Info: Imgs/icons.png  used on input line 166.
+(pdftex.def)             Requested size: 68.9672pt x 189.05609pt.
  [14
 
- <./Imgs/js-code.png> <./Imgs/java-code.png>]
-<Imgs/felix-sonar.png, id=448, 1316.92pt x 990.70125pt>
-File: Imgs/felix-sonar.png Graphic file (type png)
-<use Imgs/felix-sonar.png>
-Package pdftex.def Info: Imgs/felix-sonar.png  used on input line 189.
-(pdftex.def)             Requested size: 234.54364pt x 176.45158pt.
+ <./Imgs/icons.png>]
+<Imgs/js-code.png, id=446, 726.715pt x 762.85pt>
+File: Imgs/js-code.png Graphic file (type png)
+<use Imgs/js-code.png>
+Package pdftex.def Info: Imgs/js-code.png  used on input line 178.
+(pdftex.def)             Requested size: 120.05803pt x 126.0374pt.
+<Imgs/java-code.png, id=447, 961.5925pt x 582.175pt>
+File: Imgs/java-code.png Graphic file (type png)
+<use Imgs/java-code.png>
+Package pdftex.def Info: Imgs/java-code.png  used on input line 178.
+(pdftex.def)             Requested size: 208.17628pt x 126.0374pt.
  [15
 
- <./Imgs/felix-sonar.png>]
-<Imgs/CICD-Felix.png, id=475, 879.285pt x 1196.47pt>
-File: Imgs/CICD-Felix.png Graphic file (type png)
-<use Imgs/CICD-Felix.png>
-Package pdftex.def Info: Imgs/CICD-Felix.png  used on input line 201.
-(pdftex.def)             Requested size: 138.93088pt x 189.05609pt.
-<Imgs/CICD-ralph.png, id=476, 1025.8325pt x 1322.9425pt>
-File: Imgs/CICD-ralph.png Graphic file (type png)
-<use Imgs/CICD-ralph.png>
-Package pdftex.def Info: Imgs/CICD-ralph.png  used on input line 201.
-(pdftex.def)             Requested size: 146.58963pt x 189.05609pt.
+ <./Imgs/js-code.png> <./Imgs/java-code.png>]
+<Imgs/felix-sonar.png, id=475, 1316.92pt x 990.70125pt>
+File: Imgs/felix-sonar.png Graphic file (type png)
+<use Imgs/felix-sonar.png>
+Package pdftex.def Info: Imgs/felix-sonar.png  used on input line 194.
+(pdftex.def)             Requested size: 234.54364pt x 176.45158pt.
  [16
 
- <./Imgs/CICD-Felix.png> <./Imgs/CICD-ralph.png>]
-<Imgs/doc-user.png, id=505, 1557.82pt x 990.70125pt>
-File: Imgs/doc-user.png Graphic file (type png)
-<use Imgs/doc-user.png>
-Package pdftex.def Info: Imgs/doc-user.png  used on input line 219.
-(pdftex.def)             Requested size: 237.82274pt x 151.24641pt.
+ <./Imgs/felix-sonar.png>]
+<Imgs/CICD-Felix.png, id=503, 879.285pt x 1196.47pt>
+File: Imgs/CICD-Felix.png Graphic file (type png)
+<use Imgs/CICD-Felix.png>
+Package pdftex.def Info: Imgs/CICD-Felix.png  used on input line 206.
+(pdftex.def)             Requested size: 138.93088pt x 189.05609pt.
+<Imgs/CICD-ralph.png, id=504, 1025.8325pt x 1322.9425pt>
+File: Imgs/CICD-ralph.png Graphic file (type png)
+<use Imgs/CICD-ralph.png>
+Package pdftex.def Info: Imgs/CICD-ralph.png  used on input line 206.
+(pdftex.def)             Requested size: 146.58963pt x 189.05609pt.
  [17
 
- <./Imgs/doc-user.png>]
-<Imgs/full-doc.png, id=532, 1557.82pt x 990.70125pt>
-File: Imgs/full-doc.png Graphic file (type png)
-<use Imgs/full-doc.png>
-Package pdftex.def Info: Imgs/full-doc.png  used on input line 225.
-(pdftex.def)             Requested size: 317.09698pt x 201.6606pt.
+ <./Imgs/CICD-Felix.png> <./Imgs/CICD-ralph.png>]
+<Imgs/doc-user.png, id=532, 1557.82pt x 990.70125pt>
+File: Imgs/doc-user.png Graphic file (type png)
+<use Imgs/doc-user.png>
+Package pdftex.def Info: Imgs/doc-user.png  used on input line 224.
+(pdftex.def)             Requested size: 237.82274pt x 151.24641pt.
  [18
 
- <./Imgs/full-doc.png>] [19
+ <./Imgs/doc-user.png>]
+<Imgs/full-doc.png, id=559, 1557.82pt x 990.70125pt>
+File: Imgs/full-doc.png Graphic file (type png)
+<use Imgs/full-doc.png>
+Package pdftex.def Info: Imgs/full-doc.png  used on input line 230.
+(pdftex.def)             Requested size: 317.09698pt x 201.6606pt.
+ [19
 
-] (./beamer.toc) [20
+ <./Imgs/full-doc.png>] [20
 
-] [21
+] (./beamer.toc) [21
+
+]
+<Imgs/felix.png, id=641, 1557.82pt x 990.70125pt>
+File: Imgs/felix.png Graphic file (type png)
+<use Imgs/felix.png>
+Package pdftex.def Info: Imgs/felix.png  used on input line 252.
+(pdftex.def)             Requested size: 297.27248pt x 189.05609pt.
+ [22
+
+ <./Imgs/felix.png>] [23
 
 ]
 \tf@nav=\write6
@@ -1035,18 +1051,18 @@ Package rerunfilecheck Info: File `beamer.out' has not changed.
 (rerunfilecheck)             Checksum: C95F69F2E518EB05D30C32BC511D1C87;541.
  ) 
 Here is how much of TeX's memory you used:
- 26904 strings out of 475188
- 510623 string characters out of 5763802
+ 26926 strings out of 475188
+ 510999 string characters out of 5763802
  1927254 words of memory out of 5000000
- 47576 multiletter control sequences out of 15000+600000
+ 47594 multiletter control sequences out of 15000+600000
  589643 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,381b,960s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb>
-Output written on beamer.pdf (21 pages, 4912017 bytes).
+Output written on beamer.pdf (23 pages, 6407316 bytes).
 PDF statistics:
- 670 PDF objects out of 1000 (max. 8388607)
- 578 compressed objects within 6 object streams
- 46 named destinations out of 1000 (max. 500000)
- 242 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 726 PDF objects out of 1000 (max. 8388607)
+ 627 compressed objects within 7 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 252 words of extra memory for PDF output out of 10000 (max. 10000000)
 
